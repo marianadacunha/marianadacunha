@@ -8,5 +8,5 @@ My name is Mariana and these are some things I like to work with:
 
 - 💻 Web Design
 - 🎨 UX/UI Design
-- 🌱 I’m currently learning more about JavaScript
+- 📚 I’m currently learning more about JavaScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marianadacunhamarques/), [E-Mail](mailto:marianadacunhamarques@gmail.com)
