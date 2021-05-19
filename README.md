@@ -6,7 +6,7 @@
 
 My name is Mariana and these are some things I like to work with:
 
-- 💻 Web Development
 - 🎨 UX/UI Design
-- 📚 I’m currently learning more about JavaScript and Python
+- 💻 Web Development
+- 📚 I’m currently learning more UI Design
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/marianadacunha/) or by [E-Mail](mailto:marianadacunhamarques@gmail.com)
