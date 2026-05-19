@@ -1,12 +1,12 @@
-### Hi there! 👋
+### hi there! 👋
 
 <!--
 **marianadacunha/marianadacunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Mariana and these are some things I like to work with:
+my name is Mariana and these are some things i like to work with:
 
-- 🎨 UX/UI Design
-- 💻 Web Development
-- 📚 I’m currently learning more AI-driven Design
-- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/marianadacunha/) or by [E-Mail](mailto:marianadacunhamarques@gmail.com)
+- 🎨 ux/ui Design
+- 💻 web Development
+- 📚 i’m currently learning more ai-driven Design
+- 📫 you can reach me at [linkedin](https://www.linkedin.com/in/marianadacunha/) or by [e-mail](mailto:marianadacunhamarques@gmail.com)
