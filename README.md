@@ -12,7 +12,7 @@ i work with ux/ui design but lately i've been spending a lot of time thinking ab
 `figma` `ux research` `behavioral design` `prototyping` `design systems` `conversational ui`
 
 **ai & tools**
-`prompt engineering` `prompt design` `mcp` `lovable` `llms` `ai for design`
+`prompt engineering` `prompt design` `mcp` `llms` `ai for design`
 
 ---
 
